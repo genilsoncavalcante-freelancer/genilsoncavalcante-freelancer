@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Instagram-15AB89.svg?&style=flat-square&logo=instagram&logoColor=black" alt="Instagram">
 </a>
 
-<a href="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genilsoncavalcante-freelancer@gmail.com" target="_blank">
+<a href="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genilsoncavalcante.freelancer@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=blue" alt="G-mail">
 </a>
 
