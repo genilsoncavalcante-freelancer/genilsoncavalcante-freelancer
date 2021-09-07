@@ -42,7 +42,6 @@
 * <a href="https://genilsoncavalcante-freelancer.github.io/CursoHTML5-HCODE/Projeto-Tabuada/tabuada.html" target="_blank">Tabuada - Curso da Hcode</a>
 * <a href="https://genilsoncavalcante-freelancer.github.io/CursoHTML5-HCODE/Projeto-Lista-de-Tarefas-To-Do/lista.html" target="_blank">Lista de Tarefas To Do - Curso da Hcode</a>
 * <a href="https://genilsoncavalcante-freelancer.github.io/CursoHTML5-HCODE/Projeto-Site-Responsivo/index.html" target="_blank">Site Responsivo - Curso da Hcode</a>
-* <a href="https://genilsoncavalcante-freelancer.github.io/projeto-site/" target="_blank">Projeto Site - Curso em Vídeo</a>
 * <a href="https://genilsoncavalcante-freelancer.github.io/Site-Google-Glass/index.html" target="_blank">Projeto Google Glass - Curso em Vídeo</a>
 
 
